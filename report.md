@@ -5,6 +5,7 @@ This is just random text in the body
 ## This is a level two heading
 
 If you want to **bold** text, surround the word with double star (**)
+If you want to *bold* text, surround the word with single star (*)
 
 ### This is a level three heading
 
